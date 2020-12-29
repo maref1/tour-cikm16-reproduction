@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2607556.svg)](https://doi.org/10.5281/zenodo.2607556)
-
 # Code and Data for CIKM'16 paper: Learning Points and Routes to Recommend Trajectories - Reproduction
 ---------------------------------------------------------------------------------------
 
