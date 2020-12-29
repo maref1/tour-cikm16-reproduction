@@ -5,4 +5,4 @@ This repository corresponds to the paper TODO which goal was to reproduce an exp
 
 The code as is was tested on Windows 10, versions of libraries etc. are described in the paper/code.
 
-The code needs to be run in the same way as the original, first rank_markov.ipynb and then parse_results.ipynb (it is needed to adjust path RankSvm in first notebok).
+The code needs to be run in the same way as the original, first rank_markov.ipynb and then parse_results.ipynb (it is needed to adjust path to RankSvm in first notebok).
